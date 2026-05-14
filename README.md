@@ -29,7 +29,7 @@ Built an end-to-end machine learning pipeline to predict diabetes risk using lar
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 1. Data Cleaning & Preprocessing
 2. Feature Engineering (clinical + statistical features)
